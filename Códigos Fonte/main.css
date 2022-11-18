@@ -1,0 +1,21 @@
+body {
+    background-color: orange;
+}
+h1{
+    text-align: center;
+}
+#submit{
+     text-align: center;
+     background-image: linear-gradient(to right,rgb(231, 237, 243), rgb(237, 232, 247));
+     width: 15%;
+     border: none;
+     padding: 10px;
+     color: black;
+     font-size: 10px;
+     cursor: pointer;
+     border-radius: 15px;
+}
+div.centralizado {
+    text-align: center;
+
+}
